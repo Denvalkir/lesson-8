@@ -1,0 +1,41 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+}
+
+.container {
+  margin: 50px;
+}
+
+nav .logo {
+  float: left;
+  font-size: 30px;
+  font-weight: 900;
+}
+
+nav .navigation {
+  float: right;
+}
+
+.navigation li {
+  text-align: center;
+  float: left;
+  font-size: 20px;
+  margin: 10px;
+}
+
+header img {
+  width: 20px;
+}
